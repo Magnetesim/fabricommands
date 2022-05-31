@@ -2,7 +2,7 @@
 
 ## Why?
 
-To be completely honest, I want to learn how to mod. Disregard this project.. it does not exist
+To be completely honest, I want to learn how to mod. Disregard this project, it does not exist
 :)
 
 ## License
